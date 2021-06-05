@@ -1,0 +1,12 @@
+.card {
+    margin: 24px;
+    // fixing the conflict between themes of angular material and bootstrap
+    .card-title {
+        margin-top: 0;
+        margin-bottom: .5rem;
+        font-weight: 500;
+        line-height: 1.2;
+        font-size: 1.25rem;
+        margin-bottom: .5rem;
+    }
+}
