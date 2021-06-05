@@ -1,4 +1,6 @@
 # FastUi
+## The code was shown in youtube [Link to Video](https://youtu.be/1jts0WaoqN8)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1jts0WaoqN8/0.jpg)](http://www.youtube.com/watch?v=1jts0WaoqN8 "Fast UI for Assignments in Angular Interviews by Gourav")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
